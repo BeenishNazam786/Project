@@ -23,7 +23,7 @@ const DonorFormPage = () => {
     const registerDonor = async () => {
         try {
             const response = await axios.post(
-                "https://project-tnhw.onrender.com//api/donors/register",
+                "https://project-tnhw.onrender.com/api/donors/register",
                 donorData
             );
             console.log(response.data);
