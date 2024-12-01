@@ -12,8 +12,8 @@ const Footer = () => {
       </div>
 
     <div className="contact-us">
-        <p>Contact us at:
-          <a href="tel:+1234567890" className="phone-link">+123 456 7890</a></p>
+        <p>Contact us if you need BLOOD:
+          <a href="tel:+358417494633" className="phone-link">+358 740 4633</a></p>
       </div>
     </footer>
   );
